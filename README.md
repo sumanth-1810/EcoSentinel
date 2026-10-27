@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌎 EcoSentinel
+#  EcoSentinel
 
 ### Toward Agentic AI for Wildfire-Aware Air Quality Forecasting
 
